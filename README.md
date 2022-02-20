@@ -1,5 +1,5 @@
 # Python-tutorials-for-beginners
-This file contains all the possible ways to learn python. It includes links of different **videos,blogs and a few book suggestions.** You can also download few books here.
+This file contains all the possible ways to learn python. It includes links of different **videos,blogs and a few book suggestions.** You can also download  **books** here.
 
 ## Video Links
 - <https://www.youtube.com/watch?v=4Mf0h3HphEA&list=PLDE128B561312F147&index=1>
